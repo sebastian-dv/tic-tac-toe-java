@@ -1,7 +1,7 @@
 public class App {
 
     public static void main(String[] args) {
-        Start game = new Start();
+        Window game = new Window();
         game.playGame();
     }
 }
